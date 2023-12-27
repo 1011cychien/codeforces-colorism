@@ -1,0 +1,9 @@
+# requirements.txt
+
+# Specific package versions
+requests==2.26.0
+matplotlib==3.4.3
+scipy==1.7.3
+nltk==3.6.3
+textblob==0.15.3
+
